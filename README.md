@@ -4,6 +4,8 @@
 ##### Roubei a ideia de fazer ele depois de ver alguns minutos do CS50x, pois eu estava entediado.
 Eu nem sei como eu explicaria como esse código funciona, ele só funciona. E funciona BEM, viu? Matter of fact, esse foi provavelmente o meu código mais bem feito nesses longos 4 meses programando.
 
+Uma coisa, você não escolhe o valor que ele vai transformar em binário com argumento e coisa assim, você precisa alterar o #DEFINE DEFAULT_VALUE lá em cima do código ou trocar o valor recebido pela função itob.
+
 ---
 
 #### >👽: Você sabia que você só precisava dividir o número por 2 e gravar o resto da divisão, né?
