@@ -31,8 +31,9 @@ int itob(const int NUMBER_TO_CONVERT) {
 }
 
 int main() {
-    printf("Default value given to this code is %d.\n", DEFAULT_VALUE);
+    // printf("Default value given to this code is %d.\n", DEFAULT_VALUE);
     itob(DEFAULT_VALUE);
 
     return 0;
+
 }
