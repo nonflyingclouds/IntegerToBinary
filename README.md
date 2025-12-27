@@ -15,6 +15,7 @@ _Morrar._ Mas eu sabia sim, mas eu gostei mais de ocupar 3 vezes mais linhas pra
 #### > 👽: O que você pretende fazer agora?
 > 
  - Fazer uma forma de tirar a necessidade de declarar uma array apenas para o número binário (para poder o retornar mais facilmente, né).
+    - Odeio números binários que começam por 0, randomicamente me proibindo de retorná-los como int.
  
  - Também arranjar algum jeito de implementar argc e argv no código .c.
  
